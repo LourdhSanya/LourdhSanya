@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lourdh Sanya 👋
 
-<!--
-**LourdhSanya/LourdhSanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineering Student (2027)
+🚀 Aspiring Software Engineer
+📍 Chennai, India
 
-Here are some ideas to get you started:
+## 👨‍💻 Myself
+- Passionate about building real-world applications
+- Learning Java, MERN Stack, Python
+- Always curious to learn new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On
+- Solving Data Structures & Algorithms problems
+- Building full-stack projects
+
+## 📫 Reach Me
+- LinkedIn: https://linkedin.com/in/lourdh-sanya-c
+- Email: lourdhsanya.27csb@licet.ac.in
+
+> *"Learn. Build. Improve. Repeat."*
