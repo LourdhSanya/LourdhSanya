@@ -1,10 +1,6 @@
 <!-- Save as README.md inside the PUBLIC repo named exactly: LourdhSanya/LourdhSanya -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=Lourdh%20Sanya%20C&fontColor=ffffff&fontSize=40&fontAlignY=40" width="100%" alt="banner"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Data+Science+%26+Machine+Learning;Full-Stack+Web+Development;Software+Testing+%26+UI%2FUX" alt="typing"/>
-</p>
+<img src="./banner.svg" width="100%" alt="Lourdh Sanya C"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lourdhsanya-c/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -151,8 +147,7 @@ Computer Science and Engineering undergraduate who builds projects across data s
 ### GitHub Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourdhSanya&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LourdhSanya&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/1f6feb/LourdhSanya" alt="GitHub contribution graph" width="95%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" width="100%" alt="footer"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
