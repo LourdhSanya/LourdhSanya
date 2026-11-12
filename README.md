@@ -1,87 +1,71 @@
-<!-- Put this file in a PUBLIC repo named exactly: LourdhSanya/LourdhSanya  (as README.md) -->
+<!-- Save as README.md inside the PUBLIC repo named exactly: LourdhSanya/LourdhSanya -->
 
-<h1 align="center">Hi, I'm Lourdh Sanya 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=Lourdh%20Sanya&fontColor=ffffff&fontSize=40&fontAlignY=40" width="100%" alt="banner"/>
 
 <p align="center">
-  Building data-driven and full-stack projects, from ML models to web apps.<br/>
-  Python · Machine Learning · React · Test Automation
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Data+%26+Machine+Learning+Projects;Full-Stack+Web+Development;Test+Automation+%26+QA" alt="typing"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LourdhSanya?tab=repositories"><img src="https://img.shields.io/badge/Repositories-view-181717?style=flat&logo=github" alt="Repositories"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-visit-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
-## About
+### About
 
-I enjoy turning data and ideas into working products. My recent work covers predictive analytics, real-time dashboards, computer vision, and full-stack web apps, with a strong habit of testing what I build.
+I build projects that turn data into something useful: prediction models, real-time dashboards, and full-stack apps, tested properly before they ship.
 
-- 🔭 Currently building **IceQ**, a real-time cold-chain spoilage prediction platform
-- 🌱 Exploring time-series forecasting, anomaly detection, and deploying ML behind APIs
-- 🧪 Comfortable with both development and QA (Selenium, TestNG, API testing)
+Currently working on **IceQ**, a cold-chain spoilage prediction platform.
 
----
+<br/>
 
-## Tech Stack
-
-| | |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
-| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) CatBoost · MediaPipe |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Testing** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) TestNG · API Testing · Manual Testing |
-| **Tools & Deploy** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
-
----
-
-## ⭐ Featured Project
-
-### 🧊 [IceQ: Real-Time Food Cold-Chain Spoilage Prediction](https://github.com/LourdhSanya/IceQ-Cold-Chain-Analytics)
-
-Monitors simulated sensor data across dairy, produce, and frozen storage units, flags temperature risks, and predicts breaches 30 minutes ahead.
-
-- **Risk classification:** threshold-based rules for live status
-- **Prediction:** CatBoost model for 30-minute temperature breach forecasting
-- **Anomaly detection:** Isolation Forest for abnormal sensor behaviour
-- **Product:** FastAPI backend and React dashboard with live readings and alerts
-
-[🌐 Live Demo](https://ice-q-cold-chain-analytics.vercel.app/) · [📊 Dashboard](https://ice-q-cold-chain-analytics.vercel.app/dashboard) · [📖 API Docs](https://iceq-cold-chain-analytics.onrender.com/docs) · [💻 Source](https://github.com/LourdhSanya/IceQ-Cold-Chain-Analytics)
-
-`Python` `CatBoost` `Isolation Forest` `FastAPI` `React` `Vite` `Render` `Vercel`
-
----
-
-## 🚀 More Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**BorrowHub**](https://github.com/LourdhSanya/BorrowHub) | Full-stack community platform to lend and borrow items | MongoDB · Express · React · Node |
-| [**MEDLY**](https://github.com/LourdhSanya/Medly) | OCR-based medicine record system with offline support and SMS expiry alerts | Python · OCR · SMS |
-| [**Retail Demand Forecasting**](https://github.com/LourdhSanya/retail-demand-forecasting) | Seasonal analysis and forecasting to support inventory planning | Python · Pandas · NumPy |
-| [**Fake News Detection**](https://github.com/LourdhSanya/FakeNews) | ML classifier that flags potential misinformation in news text | Python · Scikit-learn |
-| [**GestureFX Portal**](https://github.com/LourdhSanya/GestureFX-Portal) | Switch image filters in real time using hand gestures | Python · OpenCV · MediaPipe |
-| [**Selenium Test Automation**](https://github.com/LourdhSanya/Selenium_testing) | Automated login and product-management test suites | Java · Selenium · TestNG |
-| [**Second-Hand Goods Marketplace**](https://github.com/LourdhSanya/Second_handgoods-) | Web marketplace for browsing and buying second-hand items | JavaScript · HTML · CSS · MySQL |
-| [**Habit Tracker**](https://github.com/LourdhSanya/Habit-Tracker) | Simple app to track daily routines and consistency | Web |
-| [**Fast Typing Practice**](https://github.com/LourdhSanya/Fast-Typing-) | Typing practice app to improve speed and accuracy | Web |
-
----
-
-## 📊 GitHub Stats
+### Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LourdhSanya&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourdhSanya&layout=compact&hide_border=true" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,vite,nodejs,express,fastapi&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,opencv,mongodb,mysql,selenium,git,figma,vercel&theme=dark" /><br/>
+  <sub>Also: CatBoost · Isolation Forest · MediaPipe · TestNG · Render</sub>
 </p>
 
----
+<br/>
+
+### Featured Project
+
+<a href="https://github.com/LourdhSanya/IceQ-Cold-Chain-Analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LourdhSanya&repo=IceQ-Cold-Chain-Analytics&theme=tokyonight&hide_border=true" width="49%"/>
+</a>
+
+**IceQ** predicts temperature breaches in dairy, produce and frozen storage 30 minutes ahead, using CatBoost and Isolation Forest, served by a FastAPI backend and a React dashboard.
+
+[Live Demo](https://ice-q-cold-chain-analytics.vercel.app/) · [Dashboard](https://ice-q-cold-chain-analytics.vercel.app/dashboard) · [API Docs](https://iceq-cold-chain-analytics.onrender.com/docs)
+
+<br/>
+
+### Other Projects
+
+<p>
+  <a href="https://github.com/LourdhSanya/BorrowHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LourdhSanya&repo=BorrowHub&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/LourdhSanya/Medly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LourdhSanya&repo=Medly&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+<p>
+  <a href="https://github.com/LourdhSanya/FakeNews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LourdhSanya&repo=FakeNews&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/LourdhSanya/retail-demand-forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LourdhSanya&repo=retail-demand-forecasting&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+<p>
+  <a href="https://github.com/LourdhSanya/GestureFX-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LourdhSanya&repo=GestureFX-Portal&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/LourdhSanya/Selenium_testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LourdhSanya&repo=Selenium_testing&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+
+<br/>
+
+### GitHub Activity
 
 <p align="center">
-  <i>Open to internships and collaborations. Feel free to reach out. ✨</i>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourdhSanya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LourdhSanya&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" width="100%" alt="footer"/>
