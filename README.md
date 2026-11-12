@@ -1,6 +1,6 @@
 <!-- Save as README.md inside the PUBLIC repo named exactly: LourdhSanya/LourdhSanya -->
 
-<img src="./banner.svg" width="100%" alt="Lourdh Sanya C"/>
+<img src=""D:\Downloads\banner.svg"" width="100%" alt="Lourdh Sanya C"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lourdhsanya-c/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
